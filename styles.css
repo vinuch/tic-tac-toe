@@ -35,3 +35,9 @@ button {
     border: 8px solid rgb(199, 128, 21);
     background-color: rgb(150, 50, 12);
 }
+#win-announcement {
+    display: none;
+    text-align: center;
+    font-size: 30px;
+    color: whitesmoke;
+}
